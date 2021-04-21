@@ -1,0 +1,22 @@
+{
+  "name": "cucumber-js-1646",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-molak/cucumber-js-1646.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-molak/cucumber-js-1646/issues"
+  },
+  "homepage": "https://github.com/jan-molak/cucumber-js-1646#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.2.0"
+  }
+}
